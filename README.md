@@ -525,3 +525,14 @@ Safe and secure by default
 Easy to enable with minimal configuration
 Environment and instructions optimized for Claude
 Consider using Anthropic's managed solution if you're using the Claude API.
+
+
+Related features
+Code Execution Tool
+Learn about the underlying code execution capability that powers programmatic tool calling.
+
+Tool Use Overview
+Understand the fundamentals of tool use with Claude.
+
+Implement Tool Use
+Step-by-step guide for implementing tools.
