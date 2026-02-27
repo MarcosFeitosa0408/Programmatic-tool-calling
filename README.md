@@ -7,7 +7,7 @@ The difference compounds fast in real workflows. Consider checking budget compli
 Quick start
 Here's a simple example where Claude programmatically queries a database multiple times and aggregates results:
 
-curl https://api.anthropic.com/v1/messages \
+
     --header "x-api-key: $ANTHROPIC_API_KEY" \
     --header "anthropic-version: 2023-06-01" \
     --header "content-type: application/json" \
